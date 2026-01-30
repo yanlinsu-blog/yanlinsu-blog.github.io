@@ -31,8 +31,8 @@ They’ve exited the hyper‑growth phase and are now a mature business with a h
 
 Overall, Netflix’s cash flow looks solid – with strong cash generation from operations to support share buyback and rely mostly internal financing.
 
-Adding $83b in loans blows up the picture. Even if we assume 2025 momentum continues—higher ad revenue plus WBS historical operating cash flow—we’re talking maybe $20b in operating cash flow for 2026. That leaves a massive hole for 2026/2027 depending on the timing of the deal. Essentially, Netflix would need to: 
-I.	Sell assets: its own or WBS’s  
+Adding $83b in loans blows up the picture. Even if we assume 2025 momentum continues—higher ad revenue plus WBS historical operating cash flow—we’re talking maybe $20b in operating cash flow for 2026. That leaves a massive hole for 2026/2027 depending on the timing of the deal. Essentially, Netflix would need to:  
+I. Sell assets: its own or WBS’s  
 II. Stop share buybacks  
 III. Issue new stocks  
 
