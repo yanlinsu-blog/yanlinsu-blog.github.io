@@ -8,6 +8,7 @@ Amid the fierce competition for Warner Bros, Netflix amended the bid to a **100%
 To calculate the optimal capital structure, I obtained the latest 2025 financial results and consensus of macro metrics to get Netflix’s existing WACC 10.5%.
 
 ![Netflix](/assets/images/1. Netflix WACC.png)
+
 Then I estimated the cost of equity across debt ratios between 0%–90%. Pretty intuitive: as leverage rises, the beta climbs because both operational and financial risk increase. On the debt side, I used Damodaran’s rating/spread correlations for large non-financial firms and anchored on Netflix’s A3 credit rating. From there, I computed an after-tax cost of debt across the same 0%–90% range. 
 
 ![Netflix](/assets/images/2. Netflix optimal.png)
