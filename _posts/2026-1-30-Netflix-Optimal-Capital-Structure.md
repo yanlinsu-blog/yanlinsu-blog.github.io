@@ -3,8 +3,8 @@ title: "Can Netflix swallow the massive loan to acquire WBS?"
 layout: post
 ---
 Amid the fierce competition for Warner Bros, Netflix amended the bid to a **100% cash offer** with a valuation about $83b. That’s a loud signal: they’re dead serious about the acquisition and want to take stock-price volatility out of the equation entirely. Naturally, I got curious about two things:
-1.	 (theoretically) what is Netflix’s optimal capital structure - at which debt level its cost of capital is minimized and in return firm value maximized
-2.	whether layering on $83b of new debt completely wrecks the balance
+1.	 (theoretically) what is Netflix’s optimal capital structure - at which debt level its cost of capital is minimized and in return firm value maximized  
+2.	whether layering on $83b of new debt completely wrecks the balance  
 To calculate the optimal capital structure, I obtained the latest 2025 financial results and consensus of macro metrics to get Netflix’s existing WACC 10.5%.
 
 ![Netflix](/assets/images/1. Netflix WACC.png)
@@ -34,8 +34,8 @@ They’ve exited the hyper‑growth phase and are now a mature business with a h
 Overall, Netflix’s cash flow looks solid – with strong cash generation from operations to support share buyback and rely mostly internal financing.
 
 Adding $83b in loans blows up the picture. Even if we assume 2025 momentum continues—higher ad revenue plus WBS historical operating cash flow—we’re talking maybe $20b in operating cash flow for 2026. That leaves a massive hole for 2026/2027 depending on the timing of the deal. Essentially, Netflix would need to: 
-*	Sell assets: its own or WBS’s
-*	Stop share buybacks
+*	Sell assets: its own or WBS’s  
+*	Stop share buybacks  
 *	Issue new stocks  
 
 ![Netflix](/assets/images/5. Netflix CF.png)
