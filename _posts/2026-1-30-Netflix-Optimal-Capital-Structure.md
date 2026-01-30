@@ -13,10 +13,8 @@ Then I estimated the cost of equity across debt ratios between 0%–90%. Pretty 
 
 ![Netflix](/assets/images/2. Netflix optimal.png)
 
-The chart gives a better overview:
-
-![Netflix](/assets/images/3. Netflix optimal chart.png)
-
+The chart gives a better overview:  
+![Netflix](/assets/images/3. Netflix optimal chart.png)  
 Yes—this involves assumptions: using a non-tech-specific spread table, applying a general U.S. market risk premium, estimating downgrade paths with rising debt, and keeping a conservative tax rate constant. But the goal isn’t perfection—just a directional feel.
 
 We see that roughly 10% - 20% debt range yields the lowest cost of capital. Today, Netflix is sitting at about 4% debt. If you hypothetically add the whole $83b—assuming the market cap stays unchanged—total leverage jumps to around 20%. So, in theory, taking on debt to pay all cash doesn’t look terrible. If anything, it moves Netflix closer to its “optimal” structure and could boost firm value.
@@ -34,9 +32,9 @@ They’ve exited the hyper‑growth phase and are now a mature business with a h
 Overall, Netflix’s cash flow looks solid – with strong cash generation from operations to support share buyback and rely mostly internal financing.
 
 Adding $83b in loans blows up the picture. Even if we assume 2025 momentum continues—higher ad revenue plus WBS historical operating cash flow—we’re talking maybe $20b in operating cash flow for 2026. That leaves a massive hole for 2026/2027 depending on the timing of the deal. Essentially, Netflix would need to: 
-*	Sell assets: its own or WBS’s  
-*	Stop share buybacks  
-*	Issue new stocks  
+I.	Sell assets: its own or WBS’s  
+II. Stop share buybacks  
+III. Issue new stocks  
 
 ![Netflix](/assets/images/5. Netflix CF.png)
 
